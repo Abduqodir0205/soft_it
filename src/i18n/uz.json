@@ -1,0 +1,31 @@
+{
+    "services": "Xizmatlar",
+    "portfolio": "Portfolio",
+    "vacancies": "Vakansiyalar",
+    "blog": "Blog",
+    "about_us": "Biz haqimizda",
+    "about_us-label": "20 dan ortiq yirik loyihalarni amalga oshirgan malakali mutaxassislar jamoasi sizga raqamlashtirish sohasida eng yaxshi yechimlarni taklif etadi!",
+    "contact": "Kontaktlar",
+    "scroll_down": "Pastga aylantiring",
+    "section1_h1": "Biz biznesingiz uchun eng yaxshi raqamli yechimlarni taklif etamiz",
+    "section1_p": "Har qanday biznes uchun",
+    "section1_phone": "Bizga qo'ng'iroq qiling",
+    "section1_acc": "Bizning profilimiz",
+    "section3_more-txt": "Ko'proq",
+    "section3_portfolio": "Portfolio",
+    "section3_btn-txt": "Barcha loyhalar",
+    "Services_section4": "Xizmatlar",
+    "section4_card_title": "IT loyihalarni boshqarish",
+    "section4_card_label": "Turli sferalardagi raqamlashtirish bilan bog'liq loyihalarni boshqarish",
+    "ourPartners_section5": "Bizning homiylar",
+    "contact_title": "Loyhangiz bormi?",
+    "contact_label": "Bizda yechim bor",
+    "contact_nameInput": "Ismingiz",
+    "contact_form-btn": "Yuborish",
+    "bannerHiring_title": "Siz bizning jamoamizning a'zosi bo'lishingiz mumkin 😊",
+    "bannerHiring_label": "Biz bilan o'sishni hohlaysizmi? Unda bizga qo'shiling.",
+    "aboutView": {
+        "section2_text": "Biz mijozlarimizga innovatsiyalar va zamonaviy texnologiyalardan voz kechmagan holda yuqori sifatli, ishonchli va foydalanuvchilarga qulay dasturiy yechimlarni taklif etamiz. SOFT IT foydalanuvchilarga fotosuratlar, videolar va musiqalarni oqilona tahrirlash, tartibga solish, zaxiralash yoki almashish imkonini beruvchi dasturiy ilovalar va platformalarni ishlab chiqadi. Kompaniyamiz raqamlashtirish sohasida 20 dan ortiq muvaffaqiyatli loyihalarni amalga oshirish, shuningdek, ularni texnik qo‘llab-quvvatlash va sifatli dasturiy ta’minotni joriy etish bilan shug‘ullanadi. Kompaniyamizda 20 ga yaqin yuqori malakali loyiha menejerlari, to'liq stek dasturchilari, testerlar, UI/UX va grafik dizaynerlar ishlaydi."
+    }
+
+}

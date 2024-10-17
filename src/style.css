@@ -1,0 +1,64 @@
+.container {
+  max-width: 1140px !important;
+  margin: 0 auto;
+  transition: max-width 0.2s ease;
+}
+
+* {
+  transition: 0.2s ease;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #8888887c;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  color: var(--color-pale-light);
+  background: var(--bg-primary);
+  font-family: Inter, sans-serif;
+}
+
+header {
+  position: relative;
+  background: url("./assets/images/png/stars.png") repeat;
+}
+.link {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  color: inherit;
+}
+.link:hover{
+  color: var(--color-white);
+}
+
+h1, h3{
+  color: var(--color-white);
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+

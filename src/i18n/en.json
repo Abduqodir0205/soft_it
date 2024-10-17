@@ -1,0 +1,31 @@
+{
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "vacancies": "Vacancies",
+    "blog": "Blog",
+    "about_us": "About Us",
+    "about_us-label": "A team of qualified specialists who have implemented more than 20 large projects will offer you the best solutions in the field of digitization!",
+    "contact": "Contact",
+    "scroll_down": "Scroll down",
+    "section1_h1": "We offer the best digital solutions for your business",
+    "section1_p": "For any business",
+    "section1_phone": "Give us a call",
+    "section1_acc": "Our profile",
+    "section3_more-txt": "More",
+    "section3_portfolio": "Portfolio",
+    "section3_btn-txt": "All projects",
+    "Services_section4": "Services",
+    "section4_card_title": "IT project management",
+    "section4_card_label": "Management of projects related to digitization in various spheres",
+    "ourPartners_section5": "Our Partners",
+    "contact_title": "Do you have a project?",
+    "contact_label": "We have a solution",
+    "contact_nameInput": "Your name",
+    "contact_form-btn": "Submit",
+    "bannerHiring_title": "You can be a member of our team 😊",
+    "bannerHiring_label": "Want to grow with us? Then join us.",
+    "aboutView": {
+        "section2_text": "We offer our customers high-quality, reliable and user-friendly software solutions without sacrificing innovation and modern technologies. SOFT IT develops software applications and platforms that allow users to intelligently edit, organize, backup or share photos, videos and music. Our company is engaged in the implementation of more than 20 successful projects in the field of Digitization, as well as their technical support and implementation of quality software. About 20 highly qualified project managers, full stack programmers, testers, UI/UX and graphic designers work in our company."
+    }
+
+}
